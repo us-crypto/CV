@@ -36,7 +36,7 @@ export const content = {
     },
   ],
   footerStats: 'Linz, Austria  •  Fluent in Persian, German & English',
-  scheduleCallHref: 'https://wa.me/436801417634',
+  scheduleCallHref: 'https://wa.me/+436801417634',
   heroImageSrc: `${import.meta.env.BASE_URL}hero-photo.jpg`,
   resumeSrc: `${import.meta.env.BASE_URL}resume.pdf`,
 }
